@@ -16,3 +16,7 @@ Put the links that you want to open in your browser in a new line for each one.
 ![qwidjwi](https://user-images.githubusercontent.com/43283288/209050348-86981d0e-3862-41c9-8040-7bb352b75854.PNG)  
 For the argument, put the name of the file you want to open with the links. Additionally, make sure that the .cmd file is in the same directory as the file you want to open with the links.  
 ![kqowdkq(1)](https://user-images.githubusercontent.com/43283288/209050327-3b97ecaa-1eda-40d2-b4d5-5cae37d62c9d.png)
+
+## HueGenerator.java
+This code generates a hue texture.
+![hue](https://user-images.githubusercontent.com/43283288/209881373-365d8d1a-0cac-4144-b801-d5e7c9be486e.png)
